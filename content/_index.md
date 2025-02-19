@@ -27,7 +27,7 @@ Here are some principles I follow in my work:
 
 ## Find me
 
-[twitter](https://x.com/charlesjhongc)
+[Twitter](https://x.com/charlesjhongc)
 
 [Github](https://github.com/charlesjhongc)
 
