@@ -4,17 +4,37 @@ title = "Home"
 
 ## About Me
 
-hello
+hello 👋 I'm Charles.
+
+I'm a web3 freelancer. Former Solidity Engineer at [Tokenlon](https://tokenlon.im/). In general, I'm a goal-oriented developer continuously learning new things to solve problems.
+
+Here are some principles I follow in my work:
+
+- Do it once and do it well
+- Impact over effort
+- Simplicity over premature optimization
+- Pragmatism over Perfectionism
+
+---
+
+## Prev works
+
+- Tokenlon v6 (https://github.com/consenlabs/tokenlon-contracts/tree/v6.0.1)
+- Yoru (https://ethglobal.com/showcase/yoru-4si1p)
+- Porta (https://ethglobal.com/showcase/porta-we9st)
+
+---
+
+## Find me
 
 [twitter](https://x.com/charlesjhongc)
+
 [Github](https://github.com/charlesjhongc)
-[Linkedin](https://www.linkedin.com/in/charles-jhong-4a2241b9/)
+
 [Medium](https://medium.com/@charlesjhongc)
 
----
+[Telegram](https://t.me/charlesjhongc)
 
-More
+[Linkedin](https://www.linkedin.com/in/charles-jhong-4a2241b9/)
 
----
-
-More and more
+or mail to charlesjhongc@gmail.com
