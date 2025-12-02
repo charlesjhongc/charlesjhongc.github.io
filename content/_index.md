@@ -6,7 +6,7 @@ title = "Home"
 
 hello 👋 I'm Charles.
 
-I'm a web3 freelancer. Former Solidity Engineer at [Tokenlon](https://tokenlon.im/). In general, I'm a goal-oriented developer continuously learning new things to solve problems.
+Senior Blockchain Enginner at Circle. Former Solidity Engineer at [Tokenlon](https://tokenlon.im/). In general, I'm a goal-oriented developer continuously learning new things to solve problems.
 
 Here are some principles I follow in my work:
 
