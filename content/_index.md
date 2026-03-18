@@ -20,6 +20,7 @@ Here are some principles I follow in my work:
 ## Tools I made
 
 - EVM Event Parser (https://charlesjhongc.xyz/evm-event-parser/)
+- Tapbeat — BPM tap tempo calculator (https://charlesjhongc.xyz/tapbeat/)
 
 ---
 
